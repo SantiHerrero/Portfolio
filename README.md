@@ -14,7 +14,7 @@ Welcome to my portfolio! This repository serves as a showcase of my work and pro
 Im a Systems Engineering student at UNICEN. My dream is to work at game development industry.
 
 ## Projects
-List and describe the projects included in your portfolio. For each project, provide a brief overview, the technologies used, and a link to the project repository or live demo. Consider organizing the projects by category or relevance.
+This is the list of projects that I made myself.
 
 ###  Prototype 1
 
