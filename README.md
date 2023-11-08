@@ -70,6 +70,6 @@ This is the list of projects that I made myself.
 
 ## Contact
 
-*email*: herrerosanty@gmail.com
-*phone number (whatsapp/telegram/sms)*: +5492494250140
-*discord*: nnnonne
+- *email*: herrerosanty@gmail.com
+- *phone number (whatsapp/telegram/sms)*: +5492494250140
+- *discord*: nnnonne
