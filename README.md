@@ -11,10 +11,19 @@ Welcome to my portfolio! This repository serves as a showcase of my work and pro
 - [Contact](#contact)
 
 ## About Me
-Im a Systems Engineering student at UNICEN. My dream is to work at game development industry.
+Im a Systems Engineering student at UNICEN.
 
 ## Projects
 This is the list of projects that I made myself.
+
+### Project 1
+  - **Description**: This is the final project of Data Analytics course
+  
+  - **Target**: Understad why Ferrari is loosing on F1
+
+- **Technologies**: Azure, pySpark, PowerBI
+
+- [Repository Link](https://github.com/SantiHerrero/Ferrari)
 
 ###  Prototype 1
 
@@ -54,7 +63,7 @@ This is the list of projects that I made myself.
 
 - [Live Demo](https://drive.google.com/file/d/1tYBuVq1-21-kYTdKavTLxrp0OLaKq9o5/view?usp=sharing)
 
-### Project 1
+### Project 2
 
   - **Description**: This is one of my university projects. Assigment: Theory of information.
   
